@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aniket Gupta
-====================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rupanan Chakraborty
+============================================================================================================================================
 
-Engineering Student and Data Science enthusiast
----------------------------------------
+Engineering Student
+-------------------
 
 WELCOME TO MY GITHUB PROFILE!!
 
 * 🌍  I'm based in India.
-* ✉️  You can contact me at [aniketgpt2809@gmail.com](mailto:aniketgpt2809@gmail.com)
+* ✉️  You can contact me at [mr.rupexx@gmail.com](mailto:mr.rupexx@gmail.com)
 
 ### Skills
 
@@ -26,7 +26,10 @@ WELCOME TO MY GITHUB PROFILE!!
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Aniket0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aniketgupta.__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aniket-gupta-9913b1223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/Aniketgpt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aniket_gupta_09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/rupexx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+ <!-- <a href="https://www.linkedin.com/in/aniket-gupta-9913b1223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.medium.com/Aniketgpt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/aniket_gupta_09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupexx&" alt="rupexx" /></p>
