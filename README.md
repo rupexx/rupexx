@@ -6,7 +6,7 @@ Engineering Student
 
 WELCOME TO MY GITHUB PROFILE!!
 
-* 🌍  I'm based in India.
+* 🌍  I'm based in Kolkata, India.
 * ✉️  You can contact me at [mr.rupexx@gmail.com](mailto:mr.rupexx@gmail.com)
 
 ### Skills
